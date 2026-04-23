@@ -72,6 +72,6 @@ To run this project locally, follow these steps:
 
 3. **Open the notebook :**
 
-   Launch Jupyter Notebook and open `SpaceX_project.ipynb`.
+  Launch Jupyter Notebook and open `notebooks/SpaceX_project.ipynb`.
   
    
